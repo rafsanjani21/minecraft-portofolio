@@ -154,7 +154,7 @@ export default function ServerChat() {
             {/* Download CV */}
             <div className="mt-2 border-t-2 border-[#343535] pt-4">
               <a
-                href="https://drive.google.com/file/d/1VzhFVSYxAFykVNMqQVSzhjNAZeghRj9k/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1lZYSQHVnxedbMZypNqBvn3Sw3OUjUilA/view?usp=drive_link"
                 className="mc-btn-primary w-full py-4 px-2 flex items-center justify-center gap-2 font-pixel text-[10px] text-white uppercase cursor-pointer shadow-[4px_4px_0_0_#000] active:translate-y-1 active:shadow-[2px_2px_0_0_#000]"
               >
                 <span className="material-symbols-outlined text-[18px] animate-bounce">

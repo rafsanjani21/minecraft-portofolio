@@ -89,7 +89,7 @@ export default function Hero() {
           <a href="#stats" className="w-full sm:w-auto mc-btn-primary px-4 py-3 md:px-6 md:py-4 font-pixel text-[9px] md:text-sm text-white uppercase flex items-center justify-center gap-2 transition-transform active:translate-y-1">
             <span className="material-symbols-outlined text-[18px] md:text-[24px]">play_arrow</span> PRESS START
           </a>
-          <Link href="https://drive.google.com/file/d/1VzhFVSYxAFykVNMqQVSzhjNAZeghRj9k/view?usp=drive_link" className="w-full sm:w-auto mc-btn px-4 py-3 md:px-6 md:py-4 font-pixel text-[9px] md:text-sm text-white uppercase flex items-center justify-center gap-2 transition-transform active:translate-y-1">
+          <Link href="https://drive.google.com/file/d/1lZYSQHVnxedbMZypNqBvn3Sw3OUjUilA/view?usp=drive_link" className="w-full sm:w-auto mc-btn px-4 py-3 md:px-6 md:py-4 font-pixel text-[9px] md:text-sm text-white uppercase flex items-center justify-center gap-2 transition-transform active:translate-y-1">
             <span className="material-symbols-outlined text-[18px] md:text-[24px]">swords</span> VIEW MY CV
           </Link>
         </FadeIn>
